@@ -1,5 +1,3 @@
-# Ngym — Public
-
 Ngym is a personal workout tracking app for iPhone.
 
 ## Feedback & Support
